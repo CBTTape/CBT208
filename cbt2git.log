@@ -1,0 +1,8 @@
+2023-08-06 02:13:32.550055 - Initialized conversion of CBT208
+2023-08-06 02:13:32.604984 - Received CBT.V505.FILE208.PDS from FILE208.XMI 
+2023-08-06 02:13:32.607217 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:13:32.608229 - Found $$DOC.txt (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/$$DOC
+2023-08-06 02:13:32.609515 - Found @FILE208.txt (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/@FILE208
+2023-08-06 02:13:32.610574 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/ASMJCL
+2023-08-06 02:13:32.611671 - Found LSPC.txt (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/LSPC
+2023-08-06 02:13:32.612680 - Found LSPCHELP.txt (text/plain) in CBT.V505.FILE208.PDS, moved to PDS/LSPCHELP
